@@ -16,6 +16,15 @@
       },
       "versions": [
         {
+          "version": "0.3.0",
+          "buildVersion": "2",
+          "date": "2026-11-05T19:42:41Z",
+          "localizedDescription": "Comandos salvos\n\n- Nova aba Comandos: guarde comandos com parâmetros ({{serviço}}, {{linhas}}…), categorias, favoritos e busca. Vem com exemplos prontos (memória, disco, containers, logs de um serviço).\n- Rode um comando numa VPS em dois toques: escolha a VPS, preencha os valores e veja a saída colorida, com Cancelar e Rodar de novo.\n- Cada comando declara o risco (Leitura, Altera, Destrutivo); a confirmação segue a mesma regra do Docker, reforçada em VPS crítica.\n- Parâmetros secretos aparecem como ••• e chegam à VPS pela entrada do comando, fora da linha de comando.\n- No terminal, o menu ⋯ ganhou \"Comandos salvos\": cola o comando sem apertar Enter.",
+          "downloadURL": "https://github.com/WallysoPMoura/noxem-terminal-releases/releases/download/v0.3.0/NoxemTerminal-0.3.0.ipa",
+          "size": 14269020,
+          "minOSVersion": "16.4"
+        },
+        {
           "version": "0.2.0",
           "buildVersion": "1",
           "date": "2026-11-05T12:13:56Z",
