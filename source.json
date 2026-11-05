@@ -1,0 +1,21 @@
+{
+  "name": "Noxem Terminal",
+  "identifier": "cloud.noxem.terminal.source",
+  "apps": [
+    {
+      "name": "Noxem Terminal",
+      "bundleIdentifier": "cloud.noxem.terminal",
+      "developerName": "Noxem",
+      "localizedDescription": "Cliente SSH para cuidar das próprias VPS pelo celular: terminal com tmux, contêineres Docker e apps do Coolify.",
+      "iconURL": "https://raw.githubusercontent.com/WallysoPMoura/noxem-terminal-releases/main/icon.png",
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSFaceIDUsageDescription": "Usamos o Face ID para desbloquear o Noxem Terminal."
+        }
+      },
+      "versions": []
+    }
+  ],
+  "news": []
+}
