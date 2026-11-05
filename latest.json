@@ -1,0 +1,15 @@
+{
+  "version": "0.2.0",
+  "build": 1,
+  "date": "2026-11-05T12:13:56Z",
+  "notes": "Terminal escuro, logs coloridos e aviso de atualização\n\n- O terminal e a aba Terminal ficam sempre escuros, com a barra de status clara.\n- Os logs de contêineres e apps mostram as cores do terminal (ANSI); busca e copiar usam o texto limpo.\n- O menu ⋯ e o aviso \"sem tmux\" não abrem mais por cima do teclado; o teclado volta se a folha fechar sem ação.\n- O app avisa quando sai uma versão nova (no máximo uma vez por dia; dá para desligar em Ajustes).\n- A partir desta versão, no iPhone, as atualizações chegam pela fonte do SideStore, sem desinstalar.",
+  "releaseURL": "https://github.com/WallysoPMoura/noxem-terminal-releases/releases/tag/v0.2.0",
+  "ios": {
+    "url": "https://github.com/WallysoPMoura/noxem-terminal-releases/releases/download/v0.2.0/NoxemTerminal-0.2.0.ipa",
+    "size": 14231103
+  },
+  "android": {
+    "url": "https://github.com/WallysoPMoura/noxem-terminal-releases/releases/download/v0.2.0/NoxemTerminal-0.2.0.apk",
+    "size": 75075857
+  }
+}
