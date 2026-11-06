@@ -1,15 +1,15 @@
 {
-  "version": "0.5.0",
-  "build": 4,
-  "date": "2026-11-06T14:28:06Z",
-  "notes": "Versão 0.5.0",
-  "releaseURL": "https://github.com/WallysoPMoura/noxem-terminal-releases/releases/tag/v0.5.0",
+  "version": "0.6.0",
+  "build": 5,
+  "date": "2026-11-06T16:52:52Z",
+  "notes": "Versão 0.6.0",
+  "releaseURL": "https://github.com/WallysoPMoura/noxem-terminal-releases/releases/tag/v0.6.0",
   "ios": {
-    "url": "https://github.com/WallysoPMoura/noxem-terminal-releases/releases/download/v0.5.0/NoxemTerminal-0.5.0.ipa",
-    "size": 14498976
+    "url": "https://github.com/WallysoPMoura/noxem-terminal-releases/releases/download/v0.6.0/NoxemTerminal-0.6.0.ipa",
+    "size": 14514578
   },
   "android": {
-    "url": "https://github.com/WallysoPMoura/noxem-terminal-releases/releases/download/v0.5.0/NoxemTerminal-0.5.0.apk",
-    "size": 75415881
+    "url": "https://github.com/WallysoPMoura/noxem-terminal-releases/releases/download/v0.6.0/NoxemTerminal-0.6.0.apk",
+    "size": 75444553
   }
 }
