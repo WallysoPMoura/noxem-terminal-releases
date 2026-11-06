@@ -1,15 +1,15 @@
 {
-  "version": "0.3.0",
-  "build": 2,
-  "date": "2026-11-05T19:42:41Z",
-  "notes": "Comandos salvos\n\n- Nova aba Comandos: guarde comandos com parâmetros ({{serviço}}, {{linhas}}…), categorias, favoritos e busca. Vem com exemplos prontos (memória, disco, containers, logs de um serviço).\n- Rode um comando numa VPS em dois toques: escolha a VPS, preencha os valores e veja a saída colorida, com Cancelar e Rodar de novo.\n- Cada comando declara o risco (Leitura, Altera, Destrutivo); a confirmação segue a mesma regra do Docker, reforçada em VPS crítica.\n- Parâmetros secretos aparecem como ••• e chegam à VPS pela entrada do comando, fora da linha de comando.\n- No terminal, o menu ⋯ ganhou \"Comandos salvos\": cola o comando sem apertar Enter.",
-  "releaseURL": "https://github.com/WallysoPMoura/noxem-terminal-releases/releases/tag/v0.3.0",
+  "version": "0.4.0",
+  "build": 3,
+  "date": "2026-11-06T00:48:53Z",
+  "notes": "Arquivos (SFTP) e editor de texto\n\n- Nova aba Arquivos na VPS: navegue pelas pastas, veja tamanho, data, permissões e dono, e mostre ou esconda os ocultos.\n- Baixe arquivos para o iPhone (Salvar em Arquivos ou compartilhar) e envie do iPhone para a VPS, com progresso e Cancelar. Se o nome já existe: Substituir, Manter os dois ou Cancelar — o app confere na VPS antes de gravar e nunca sobrescreve sem perguntar.\n- Renomeie, crie pastas e apague arquivos ou pastas vazias, com confirmação (reforçada para apagar e em VPS crítica).\n- Edite arquivos de texto de até 1 MB direto no app: mantém as quebras de linha e as permissões, avisa se o arquivo mudou na VPS e grava sem risco de deixar arquivo pela metade. Salvar por um link simbólico atualiza o arquivo de destino.\n- \"Apagar tudo\" também remove os arquivos baixados que ficaram no aparelho.",
+  "releaseURL": "https://github.com/WallysoPMoura/noxem-terminal-releases/releases/tag/v0.4.0",
   "ios": {
-    "url": "https://github.com/WallysoPMoura/noxem-terminal-releases/releases/download/v0.3.0/NoxemTerminal-0.3.0.ipa",
-    "size": 14269020
+    "url": "https://github.com/WallysoPMoura/noxem-terminal-releases/releases/download/v0.4.0/NoxemTerminal-0.4.0.ipa",
+    "size": 14465040
   },
   "android": {
-    "url": "https://github.com/WallysoPMoura/noxem-terminal-releases/releases/download/v0.3.0/NoxemTerminal-0.3.0.apk",
-    "size": 75149585
+    "url": "https://github.com/WallysoPMoura/noxem-terminal-releases/releases/download/v0.4.0/NoxemTerminal-0.4.0.apk",
+    "size": 75350345
   }
 }
