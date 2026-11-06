@@ -1,15 +1,15 @@
 {
-  "version": "0.4.0",
-  "build": 3,
-  "date": "2026-11-06T00:48:53Z",
-  "notes": "Arquivos (SFTP) e editor de texto\n\n- Nova aba Arquivos na VPS: navegue pelas pastas, veja tamanho, data, permissões e dono, e mostre ou esconda os ocultos.\n- Baixe arquivos para o iPhone (Salvar em Arquivos ou compartilhar) e envie do iPhone para a VPS, com progresso e Cancelar. Se o nome já existe: Substituir, Manter os dois ou Cancelar — o app confere na VPS antes de gravar e nunca sobrescreve sem perguntar.\n- Renomeie, crie pastas e apague arquivos ou pastas vazias, com confirmação (reforçada para apagar e em VPS crítica).\n- Edite arquivos de texto de até 1 MB direto no app: mantém as quebras de linha e as permissões, avisa se o arquivo mudou na VPS e grava sem risco de deixar arquivo pela metade. Salvar por um link simbólico atualiza o arquivo de destino.\n- \"Apagar tudo\" também remove os arquivos baixados que ficaram no aparelho.",
-  "releaseURL": "https://github.com/WallysoPMoura/noxem-terminal-releases/releases/tag/v0.4.0",
+  "version": "0.5.0",
+  "build": 4,
+  "date": "2026-11-06T14:28:06Z",
+  "notes": "Versão 0.5.0",
+  "releaseURL": "https://github.com/WallysoPMoura/noxem-terminal-releases/releases/tag/v0.5.0",
   "ios": {
-    "url": "https://github.com/WallysoPMoura/noxem-terminal-releases/releases/download/v0.4.0/NoxemTerminal-0.4.0.ipa",
-    "size": 14465040
+    "url": "https://github.com/WallysoPMoura/noxem-terminal-releases/releases/download/v0.5.0/NoxemTerminal-0.5.0.ipa",
+    "size": 14498976
   },
   "android": {
-    "url": "https://github.com/WallysoPMoura/noxem-terminal-releases/releases/download/v0.4.0/NoxemTerminal-0.4.0.apk",
-    "size": 75350345
+    "url": "https://github.com/WallysoPMoura/noxem-terminal-releases/releases/download/v0.5.0/NoxemTerminal-0.5.0.apk",
+    "size": 75415881
   }
 }
