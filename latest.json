@@ -1,15 +1,15 @@
 {
-  "version": "0.8.0",
-  "build": 7,
-  "date": "2026-11-07T02:05:58Z",
-  "notes": "Versão 0.8.0",
-  "releaseURL": "https://github.com/WallysoPMoura/noxem-terminal-releases/releases/tag/v0.8.0",
+  "version": "0.9.0",
+  "build": 8,
+  "date": "2026-11-07T15:36:44Z",
+  "notes": "Visual novo (Meia-noite): ícone, tela de abertura, tela de bloqueio com Face ID e capa de privacidade ao trocar de app.",
+  "releaseURL": "https://github.com/WallysoPMoura/noxem-terminal-releases/releases/tag/v0.9.0",
   "ios": {
-    "url": "https://github.com/WallysoPMoura/noxem-terminal-releases/releases/download/v0.8.0/NoxemTerminal-0.8.0.ipa",
-    "size": 14554046
+    "url": "https://github.com/WallysoPMoura/noxem-terminal-releases/releases/download/v0.9.0/NoxemTerminal-0.9.0.ipa",
+    "size": 14286730
   },
   "android": {
-    "url": "https://github.com/WallysoPMoura/noxem-terminal-releases/releases/download/v0.8.0/NoxemTerminal-0.8.0.apk",
-    "size": 73433417
+    "url": "https://github.com/WallysoPMoura/noxem-terminal-releases/releases/download/v0.9.0/NoxemTerminal-0.9.0.apk",
+    "size": 73942367
   }
 }
