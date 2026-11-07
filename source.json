@@ -16,6 +16,15 @@
       },
       "versions": [
         {
+          "version": "0.8.0",
+          "buildVersion": "7",
+          "date": "2026-11-07T02:05:58Z",
+          "localizedDescription": "Versão 0.8.0",
+          "downloadURL": "https://github.com/WallysoPMoura/noxem-terminal-releases/releases/download/v0.8.0/NoxemTerminal-0.8.0.ipa",
+          "size": 14554046,
+          "minOSVersion": "16.4"
+        },
+        {
           "version": "0.7.0",
           "buildVersion": "6",
           "date": "2026-11-06T21:17:44Z",
